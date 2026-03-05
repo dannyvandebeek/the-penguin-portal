@@ -1,12 +1,12 @@
 title: [titel here]
 description: [course description]
 author: [author here]
-company: ROC-Midden Nederland
+company: ROC Midden Nederland
 department: ICT-College
 education: MBO Niveau 4
 location: Amersfoort, Nederland
 baseurl: "/template_reader_presentation"
-repository: markkors/template_reader_presentation
+repository: dannyvandebeek/template_reader_presentation
 theme: minima
 markdown: kramdown
 highlighter: rouge
